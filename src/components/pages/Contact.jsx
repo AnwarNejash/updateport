@@ -1,6 +1,6 @@
 import React from 'react';
 import './contact.css';
-import Footer from './Footer';
+
 const Contact = () => (
       <>
           <section id="contact" className="contact">
@@ -26,7 +26,7 @@ const Contact = () => (
     </div>
 
   </section>
-  <Footer/>
+
 </>
 
 );
