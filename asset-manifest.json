@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/updateport/static/css/main.bf15d887.css",
+    "main.js": "/updateport/static/js/main.1d347122.js",
+    "static/media/nejash.jpg": "/updateport/static/media/nejash.58374112f70f0c7f1202.jpg",
+    "index.html": "/updateport/index.html",
+    "main.bf15d887.css.map": "/updateport/static/css/main.bf15d887.css.map",
+    "main.1d347122.js.map": "/updateport/static/js/main.1d347122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf15d887.css",
+    "static/js/main.1d347122.js"
+  ]
+}
