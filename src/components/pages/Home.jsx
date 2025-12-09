@@ -1,9 +1,12 @@
-// components/Hero/Hero.js
 import React from 'react';
 import './Home.css';
 import nejash from '../../assets/images/nejash.jpg';
 import Footer from './Footer';
-
+import Skill from './Skill';
+import Experiences from './Experiences'
+import Project from './Project';
+import About from './About';
+import Contact from './Contact'
 const Home = () => {
   return (
     <>
@@ -24,6 +27,11 @@ const Home = () => {
       </div>
      
     </section>
+    <About/>
+    <Skill/>
+    <Experiences/>
+    <Project/>
+    <Contact/>
   <Footer/></>
 
   );
