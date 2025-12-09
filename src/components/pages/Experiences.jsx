@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from './Footer';
+
 import './Expriences.css';
 const Experiences = () => (
 
@@ -24,7 +24,7 @@ const Experiences = () => (
         </ul>
       </div>
     </div>
-      <Footer/>
+      
   </section>
 
 
