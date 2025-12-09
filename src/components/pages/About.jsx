@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import nejash from '../../assets/images/nejash.jpg';
-import Footer from './Footer';
+
 const About = () => (
    <>
          <section id="about" className="about">
@@ -28,7 +28,7 @@ const About = () => (
       </div>
     </div>
   </section>
-    <Footer/>
+   
 </>
  
 );
