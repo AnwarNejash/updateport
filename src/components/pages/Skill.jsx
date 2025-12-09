@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Skill.css"
-import Footer from './Footer';
+
 const Skills = () => {
   const technicalSkills = [
     { category: "Backend", skills: ["Java", "Spring Boot", "Spring Security", "REST APIs", "Microservices"] },
@@ -45,7 +45,7 @@ const Skills = () => {
         </div>
       </div>
     </section>
-      <Footer/>
+      
 </>
   );
 };
