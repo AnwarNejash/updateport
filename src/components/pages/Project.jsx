@@ -1,6 +1,6 @@
 import react from "react";
 import './Project.css'
-import Footer from "./Footer";
+
 const Project = () => {
   const projects = [
     {
@@ -59,8 +59,7 @@ const Project = () => {
         ))}
       </div>
     </section>
-      <Footer/>
-</>
+      
    
   );
 };
